@@ -3,7 +3,7 @@
 ## Part 1
 clone repo with:
 ```
-git clone this_repo_url
+git clone https://github.com/lukmaan-k/olliecoin.git
 ```
 
 run unit test with:
